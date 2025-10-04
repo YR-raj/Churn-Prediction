@@ -12,7 +12,7 @@ Helps in identifying multicollinearity and relationships between features.
 
 ### Confusion Matrix  
 Illustrates the model’s performance across churn and non-churn classes.  
-![Confusion Matrix](EDA_images/Confusion_Matrix.png)
+![Confusion Matrix](EDA_Images/Confusion_Matrix.png)
 
 ---
 

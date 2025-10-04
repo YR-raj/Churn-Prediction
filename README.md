@@ -4,6 +4,18 @@ The objective of this project is to predict customer churn (deflection) based on
 
 ---
 
+## Visualizations
+
+### Correlation Matrix  
+Helps in identifying multicollinearity and relationships between features.  
+![Correlation Matrix](EDA_Images/Correlation_Matrix.png)
+
+### Confusion Matrix  
+Illustrates the model’s performance across churn and non-churn classes.  
+![Confusion Matrix](EDA_images/Confusion_Matrix.png)
+
+---
+
 ## Dataset
 - Dataset: https://www.kaggle.com/competitions/kaggle-community-olympiad-customer-deflection/overview
 The dataset contains information about customer interactions, behavior, and transactions. All raw data is stored in the `data/` folder.  

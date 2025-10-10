@@ -18,7 +18,7 @@ Illustrates the model’s performance across churn and non-churn classes.
 
 ## Dataset
 - Dataset: https://www.kaggle.com/competitions/kaggle-community-olympiad-customer-deflection/overview
-The dataset contains information about customer interactions, behavior, and transactions. All raw data is stored in the `data/` folder.  
+- The dataset contains information about customer interactions, behavior, and transactions. All raw data is stored in the `data/` folder.  
 
 ---
 

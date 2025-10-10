@@ -54,10 +54,13 @@ jupyter notebook notebook.ipynb
 ---
 
 ## 🚀 Steps in the Project
-1. Data cleaning and preprocessing  
-2. Model training using **Ensemble Methods**  
-3. Hyperparameter tuning for improved performance  
-4. Model evaluation with `log_loss` score 
+1. Data cleaning and preprocessing
+2. **Exploratory Data Analysis**
+3. Data Transformation
+4. Feature Engineering
+5. Model training using **Ensemble Methods**  
+6. **Hyperparameter tuning** for improved performance  
+7. Model evaluation with `log_loss` score 
 
 ---
 

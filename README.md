@@ -76,7 +76,7 @@ jupyter notebook notebook.ipynb
 ## Results
 - Cross-validation Log Loss: `0.1858`
 - Public Leaderboard Score: `0.1866`
-- Public Leaderboard Rank: `3rd`🥉
+- Public Leaderboard Rank: `5th`🥉
 
 ---
 
